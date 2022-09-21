@@ -1,16 +1,16 @@
 {
-  "files": {
-    "main.css": "/reactjs/static/css/main.073c9b0a.css",
-    "main.js": "/reactjs/static/js/main.ac7ad0ee.js",
-    "static/js/787.f34337b0.chunk.js": "/reactjs/static/js/787.f34337b0.chunk.js",
-    "static/media/logo.svg": "/reactjs/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/reactjs/index.html",
-    "main.073c9b0a.css.map": "/reactjs/static/css/main.073c9b0a.css.map",
-    "main.ac7ad0ee.js.map": "/reactjs/static/js/main.ac7ad0ee.js.map",
-    "787.f34337b0.chunk.js.map": "/reactjs/static/js/787.f34337b0.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.ac7ad0ee.js"
-  ]
+  "main.css": "/reactjs/static/css/main.601ea2dc.chunk.css",
+  "main.js": "/reactjs/static/js/main.a1587d41.chunk.js",
+  "main.js.map": "/reactjs/static/js/main.a1587d41.chunk.js.map",
+  "static/js/1.8c98aab8.chunk.js": "/reactjs/static/js/1.8c98aab8.chunk.js",
+  "static/js/1.8c98aab8.chunk.js.map": "/reactjs/static/js/1.8c98aab8.chunk.js.map",
+  "static/js/2.eae2c638.chunk.js": "/reactjs/static/js/2.eae2c638.chunk.js",
+  "static/js/2.eae2c638.chunk.js.map": "/reactjs/static/js/2.eae2c638.chunk.js.map",
+  "runtime~main.js": "/reactjs/static/js/runtime~main.a4762d5b.js",
+  "runtime~main.js.map": "/reactjs/static/js/runtime~main.a4762d5b.js.map",
+  "static/media/suriya water bg final.jpg": "/reactjs/static/media/suriya water bg final.58d70c0f.jpg",
+  "static/css/main.601ea2dc.chunk.css.map": "/reactjs/static/css/main.601ea2dc.chunk.css.map",
+  "index.html": "/reactjs/index.html",
+  "precache-manifest.0625fe1a485a96a1f5a09de233d42723.js": "/reactjs/precache-manifest.0625fe1a485a96a1f5a09de233d42723.js",
+  "service-worker.js": "/reactjs/service-worker.js"
 }
