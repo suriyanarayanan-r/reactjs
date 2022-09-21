@@ -1,0 +1,96 @@
+@import url("https://fonts.googleapis.com/css2?family=Bangers&family=Passion+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Zilla+Slab+Highlight:wght@700&display=swap");
+
+html {
+  height: 100%;
+}
+body {
+  min-height: 100%;
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  background-image: linear-gradient(
+    to right,
+    rgb(95, 95, 95),
+    rgb(21, 77, 122),
+    rgb(95, 95, 95)
+  );
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+.welcome_container {
+  height: 250px;
+  width: 100%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  overflow: hidden;
+}
+
+.welcometext {
+  margin: auto;
+  height: auto;
+  text-align: center;
+}
+
+.welcometext h1 {
+  padding-top: 20px;
+  padding-bottom: 30px;
+  color: rgb(60, 223, 174);
+  font-size: 140px;
+  text-shadow: 5px 3px rgba(58, 65, 0, 0.863);
+  font-family: "Passion one";
+  animation: 2s slide-up;
+}
+.welcometext p {
+  display: inline-block;
+  font-size: 25px;
+  color: white;
+  padding-right: 5px;
+}
+.welcometext h5 {
+  display: inline-block;
+  color: rgba(255, 248, 248, 0.938);
+  font-size: 40px;
+  text-shadow: 1px 0px rgba(58, 65, 0, 0.863);
+  font-family: "Zilla Slab Highlight";
+  animation: 3s slide-up;
+  cursor: pointer;
+}
+.welcometext h6 {
+  padding-top: 10px;
+  font-family: "Times New Roman", Times, serif;
+  color: rgb(173, 173, 173);
+  font-size: 20px;
+}
+
+@keyframes slide-up {
+  from {
+    margin-top: 50%;
+    height: 300%;
+  }
+
+  to {
+    margin-top: 0%;
+    height: 100%;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .welcome_container {
+    padding-bottom: 10px;
+    height: 200px;
+  }
+  .welcometext h1 {
+    font-size: 55px;
+  }
+  .welcometext p {
+    font-size: 15px;
+  }
+  .welcometext h5 {
+    font-size: 30px;
+  }
+  .welcometext h6 {
+    font-size: 15px;
+  }
+}
