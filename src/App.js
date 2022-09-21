@@ -1,3 +1,4 @@
+import React from 'react';
 import './App.css';
 import Intro from './intro/intro';
 import Project from './project/project';
