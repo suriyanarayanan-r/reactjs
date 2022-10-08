@@ -1,18 +1,18 @@
-import React from 'react';
-import './App.css';
-import Intro from './intro/intro';
-import Project from './project/project';
-import Welcome from './welcome/welcome';
-import Footer from './footer/footer';
+import { BrowserRouter, Route, Routes } from "react-router-dom";
+import ErrorMsg from "./elements/ErrorMsg";
+import HomePage from "./elements/HomePage";
+import Project from "./elements/Project";
 
 function App() {
   return (
-    <div>
-      <Welcome />
-      <Intro />
-      <Project />
-      <Footer />
-    </div>
+    <BrowserRouter>
+      <Routes>
+        <Route path="/reactjs" element={<HomePage />} />
+        <Route path="/reactjs/projects" element={<Project />} />
+        <Route path="/*" element={<ErrorMsg />} />
+        <Route path="/*/*" element={<ErrorMsg />} />
+      </Routes>
+    </BrowserRouter>
   );
 }
 
