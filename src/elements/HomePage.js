@@ -25,9 +25,9 @@ function HomePage() {
             technologies and provide solution to problems."
           </p>
         </div>
-        <div className="flex gap-10 text-4xl text-gray-700 m-auto mb-20 dark:text-gray-300 dark:md:mt-5">
+        <div className="flex gap-10 text-4xl text-gray-700 m-auto mt-5 dark:text-gray-300 dark:md:mt-5">
           <a
-            href="https://www.linkedin.com/in/suriya-narayanan-24b291159"
+            href="https://www.linkedin.com/in/suriyanarayanan-r-24b291159"
             target="blank_"
           >
             <AiFillLinkedin />
