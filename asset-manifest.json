@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/reactjs/static/css/main.8ec980dc.css",
-    "main.js": "/reactjs/static/js/main.e74c8be9.js",
+    "main.css": "/reactjs/static/css/main.dd0a1483.css",
+    "main.js": "/reactjs/static/js/main.0f77d1c9.js",
     "static/media/suriya water bg final.jpg": "/reactjs/static/media/suriya water bg final.0efb5736f1b2e060e31c.jpg",
     "static/media/Merienda-Bold.ttf": "/reactjs/static/media/Merienda-Bold.45a68bbd1460a4b81261.ttf",
     "index.html": "/reactjs/index.html",
-    "main.8ec980dc.css.map": "/reactjs/static/css/main.8ec980dc.css.map",
-    "main.e74c8be9.js.map": "/reactjs/static/js/main.e74c8be9.js.map"
+    "main.dd0a1483.css.map": "/reactjs/static/css/main.dd0a1483.css.map",
+    "main.0f77d1c9.js.map": "/reactjs/static/js/main.0f77d1c9.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ec980dc.css",
-    "static/js/main.e74c8be9.js"
+    "static/css/main.dd0a1483.css",
+    "static/js/main.0f77d1c9.js"
   ]
 }
